@@ -1,6 +1,6 @@
 # A Deadly Mexican Story
 
-![Landing page](Images/el-dia-de-los-muertos-234237_1280.jpg)
+![Landing page](Main/Images/el-dia-de-los-muertos-234237_1280.jpg)
 
 ## Project Background 
 
@@ -42,7 +42,7 @@ Tableau Software is a software company[4] headquartered in Seattle, Washington, 
 
 ## Data Analysis Framework
 
-![Landing page](Images/A-Deadly.jpg)
+![Landing page](Main/Images/A-Deadly.jpg)
 
 
 #### **Data gathering**
