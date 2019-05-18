@@ -58,7 +58,7 @@ Here you can find the info related to the main: [Python script and Jupyter Noteb
 
 
 **Machine learning**:
-We used sklearn [Random Forest Model](https://github.com/JoannePeel/A-deadly-mexican-story/blob/master/main.ipynb) to build a model able to predict the cause of death based on data found in death certificates.
+We used sklearn [Random Forest Model](Main/Jupyter/main.ipynb) to build a model able to predict the cause of death based on data found in death certificates.
 
 #### **Data sharing**
 
