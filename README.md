@@ -1,9 +1,8 @@
-
 # A Deadly Mexican Story
 
 ![Landing page](Images/el-dia-de-los-muertos-234237_1280.jpg)
 
-## Project background 
+## Project Background 
 
 In Mexico, there have been important changes in the **epidemiological occurrence of diseases**, related to: Environmental, demographic, economic, social, and cultural changes, which have influenced the epidemiological profile, as well as the characteristics related to the **presence of disease and death in the Mexican population**.
 
@@ -14,11 +13,7 @@ As a result, risks of exposure to a sedentary lifestyle, stress, tobacco and dru
 Therefore, the main objective of this project is:
 ##### To analyze the mortality and defunctions indicators that the Mexican population has been presenting in the period 2012-2017.
 
-## Data Analysis Framework
-
-![Landing page](Images/A-Deadly.jpg)
-
-### **Technology Landscape**
+## **Technology Landscape**
 
 1. [Python:](https://www.python.org/about/)
 A programming language that lets you work more quickly and integrate your systems more effectively.
@@ -45,13 +40,18 @@ Tableau Software is a software company[4] headquartered in Seattle, Washington, 
 
 </n>
 
-### **Data gathering**
+## Data Analysis Framework
+
+![Landing page](Images/A-Deadly.jpg)
+
+
+#### **Data gathering**
 
 For this purpose, we used the following database:
 1)	[INEGI deaths ( 2012-2017)](https://www.inegi.org.mx/programas/mortalidad/)
 In 1987, the Ministry of Health introduced the certificate of fetal death, which remains in force. This is the main source of data for the analysis. 
 
-### **Data analysis**
+#### **Data analysis**
 
 **Extract, Transformation and Load Process**: 
 Here you can find the info related to the main [Python script](https://github.com/JoannePeel/1001-ways-to-die-in-Mexico/tree/master/etl_process) and [Jupyter Notebook](https://github.com/JoannePeel/1001-ways-to-die-in-Mexico/tree/master/etl_process).
@@ -59,7 +59,7 @@ Here you can find the info related to the main [Python script](https://github.co
 **Machine learning**:
 We used sklearn [Random Forest Model](https://github.com/JoannePeel/A-deadly-mexican-story/blob/master/main.ipynb) to build a model able to predict the cause of death based on data found in death certificates.
 
-### **Data sharing**
+#### **Data sharing**
 
 Finally, we build a dashboard called [A Deadly Mexican Story](https://public.tableau.com/profile/daniel.cespedes2591#!/vizhome/ADeadlyMexicanStory/ADeadlyMexicanStory?publish=yes) to create an interactional channel to provide insights via Tableau public.
 
