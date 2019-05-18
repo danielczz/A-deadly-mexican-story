@@ -1,6 +1,6 @@
 ![](https://github.com/JoannePeel/A-deadly-mexican-story/blob/master/A%20Deadly%20Mexican%20History.jpg)
 
-# A-deadly-mexican-story
+# A Deadly Mexican Story
 
 ## Project background 
 
