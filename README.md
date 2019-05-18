@@ -54,7 +54,8 @@ In 1987, the Ministry of Health introduced the certificate of fetal death, which
 #### **Data analysis**
 
 **Extract, Transformation and Load Process**: 
-Here you can find the info related to the main [Python script](https://github.com/JoannePeel/1001-ways-to-die-in-Mexico/tree/master/etl_process) and [Jupyter Notebook](https://github.com/JoannePeel/1001-ways-to-die-in-Mexico/tree/master/etl_process).
+Here you can find the info related to the main: [Python script and Jupyter Notebook](Main/Jupyter/main.ipynb)
+
 
 **Machine learning**:
 We used sklearn [Random Forest Model](https://github.com/JoannePeel/A-deadly-mexican-story/blob/master/main.ipynb) to build a model able to predict the cause of death based on data found in death certificates.
