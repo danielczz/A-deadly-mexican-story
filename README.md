@@ -20,27 +20,27 @@ Therefore, the main objective of this project is:
 
 ### **Technology Landscape**
 
-1. [Python](https://www.python.org/about/)
+1. [Python:](https://www.python.org/about/)
 A programming language that lets you work more quickly and integrate your systems more effectively.
 
 </n>
 
-1. [Pandas](https://pandas.pydata.org/)
+1. [Pandas:](https://pandas.pydata.org/)
 pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
 
 </n>
 
-1. [SQLite](https://www.sqlite.org/index.html)
+1. [SQLite:](https://www.sqlite.org/index.html)
 SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world.
 
 </n>
 
-1. [SQLAlchemy](https://www.sqlalchemy.org/)
+1. [SQLAlchemy:](https://www.sqlalchemy.org/)
 SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
 
 </n>
 
-1. [Tableau](https://www.tableau.com/)
+1. [Tableau:](https://www.tableau.com/)
 Tableau Software is a software company[4] headquartered in Seattle, Washington, United States that produces interactive data visualization products[5] focused on business intelligence.
 
 </n>
